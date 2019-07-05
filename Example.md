@@ -1,9 +1,10 @@
 #### What is Markdown and how do we use it to create web-pages?
-Held at the Fawkes Training Room on 5th November from 13:00 to 17:00  
+Held at the Craik-Marshall Room on July 1st-5th from 13:00 to 17:00  
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
-Mark.   
+Mark.  
+Michael.
 
 ## Topics
 Headings   
@@ -23,7 +24,7 @@ Tables & Web-links             e.g. www.google.com.
 
 Resource        | Web-link   
 --------------- | -------------------------------------------------------------------------------------------      
-Combine course  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).  
+Combine course from australia  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).  
 Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  
 
 Inserting graphics    e.g. coffee-break & biscuits.   
