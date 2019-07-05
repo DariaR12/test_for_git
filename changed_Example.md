@@ -5,6 +5,7 @@ Held at the Craik-Marshall Room on July 1st-5th from 13:00 to 17:00
 Ash.    
 Mark.  
 Michael.
+Darja
 
 ## Topics
 Headings   
